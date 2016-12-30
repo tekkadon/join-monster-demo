@@ -1,4 +1,5 @@
 ### A Live Demo of [Join Monster](https://github.com/stems/join-monster)
+![CircleCI status](https://circleci.com/gh/cbcrg/lncRNA-Annotation-nf.png?style=shield)
 
 [https://join-monster.herokuapp.com/graphql](https://join-monster.herokuapp.com/graphql)
 
