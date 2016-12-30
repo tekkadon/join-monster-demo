@@ -1,5 +1,5 @@
 ### A Live Demo of [Join Monster](https://github.com/stems/join-monster)
-![CircleCI status](https://circleci.com/gh/tekkadon/join-monster.png?style=shield)
+![CircleCI status](https://circleci.com/gh/tekkadon/join-monster-demo.png?style=shield)
 
 [https://join-monster.herokuapp.com/graphql](https://join-monster.herokuapp.com/graphql)
 
